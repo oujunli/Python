@@ -2,8 +2,7 @@
 pidmem.py  - Pid Memory
 		========================
 
-Copyright 2014 Alibaba Inc.
-   Author:   wuchen <oujunli306@gmail.com> <junli.ojl@alibaba-inc.com> Wireless Performance Team
+   Author:   wuchen <oujunli306@gmail.com> Wireless Performance Team
    License:   The GNU Free Documentation License, Version 1.2
                (dual licensed under the GPL v2)
 """
